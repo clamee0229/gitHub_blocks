@@ -1,0 +1,38 @@
+#container {
+    text-align: center;
+    justify-content: center;
+}
+#head{
+    color: steelblue;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+div {
+    width: 1800px;
+}
+
+.film {
+    background-color: lightskyblue;
+    padding: 1rem;
+}
+
+.grinch {
+    background-color: mediumvioletred;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.robot {
+    background-color:silver;
+    padding: 1rem;
+}
